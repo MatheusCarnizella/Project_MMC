@@ -1,0 +1,8 @@
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\bin\Debug\Atividade_IMC.exe.config
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\bin\Debug\Atividade_IMC.exe
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\bin\Debug\Atividade_IMC.pdb
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\obj\Debug\Atividade_IMC.csproj.AssemblyReference.cache
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\obj\Debug\Atividade_IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\obj\Debug\Atividade_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\obj\Debug\Atividade_IMC.exe
+C:\Users\Voiidde\Desktop\Git_projects\Project_IMC\Atividade_IMC\Atividade_IMC\obj\Debug\Atividade_IMC.pdb
